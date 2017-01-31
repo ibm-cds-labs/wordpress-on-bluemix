@@ -2,8 +2,10 @@
 
 ## Deploying to [IBM Bluemix](https://www.bluemix.net)
 
+> **Note:** This will provision a MySQL instance within Bluemix which may incur costs, please see [here](https://console.ng.bluemix.net/catalog/services/compose-for-mysql/) for more information
+
 ### The easy way
-The easiest way to deploy this app to [IBM Bluemix](https://www.bluemix.net) using @Compose for MySQL is to deploy via the button below.
+The easiest way to deploy this app to [IBM Bluemix](https://www.bluemix.net) using Compose for MySQL is to deploy via the button below.
 [![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/2113a61752ea750176a78f022f0416f0/button.svg)](https://bluemix.net/deploy?repository=https://github.com/ibm-cds-labs/wordpress-on-bluemix)
 
 ### Manual installation
